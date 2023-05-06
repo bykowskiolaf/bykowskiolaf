@@ -5,11 +5,19 @@
 
 - 🌱 I’m currently learning **React, TypeScript**
 
-<!-- - 👨‍💻 All of my projects are available at [bykowskiolaf.dev](bykowskiolaf.dev) !-->
+<!-- - 👯 I’m looking to collaborate on [1](1)
+
+- 🤝 I’m looking for help with [1](1)
+
+- 👨‍💻 All of my projects are available at [1.com](1.com)
+
+- 📝 I regularly write articles on [1.com](1.com)
+
+- 💬 Ask me about **1** !-->
 
 - 📫 How to reach me **olafbykowski1@gmail.com**
 
-<!-- - 📄 Know about my experiences [bykowskiolaf.dev/cv](bykowskiolaf.dev/cv) !-->
+<!-- - 📄 Know about my experiences [1.com](1.com) !-->
 
 - ⚡ Fun fact **I like cacti.**
 
