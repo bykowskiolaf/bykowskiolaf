@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olaf!</h1>
-<h3 align="center">I'm passionate student developer from Poland.</h3>
+<h3 align="center">I'm a passionate student developer from Poland.</h3>
 
 - 🔭 I’m currently working on [Subscriber Tinder](https://github.com/bykowskiolaf/subscriber-tinder)
 
