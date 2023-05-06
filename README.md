@@ -19,7 +19,7 @@
 
 <!-- - 📄 Know about my experiences [1.com](1.com) !-->
 
-- ⚡ Fun fact **I like cacti.**
+- ⚡ Fun fact: **I like cacti.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
