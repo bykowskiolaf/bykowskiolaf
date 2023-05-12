@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [1.com](1.com)
 
-- 💬 Ask me about **1** !-->
+- 💬 Ask me about **This or that** !-->
 
 - 📫 How to reach me **olafbykowski1@gmail.com**
 
