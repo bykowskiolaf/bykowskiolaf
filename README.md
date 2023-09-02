@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Olaf!</h1>
 <h3 align="center">I'm a passionate student developer from Poland.</h3>
 
+- 💻 Junior FrontEnd developer [@CyberSecurityLab](https://cslsoft.pl)**
+
 - 🔭 I’m currently working on [Subscriber Tinder](https://github.com/bykowskiolaf/subscriber-tinder)
 
 - 🌱 I’m currently learning **React, TypeScript**
