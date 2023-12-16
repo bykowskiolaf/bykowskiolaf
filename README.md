@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Subscriber Tinder](https://github.com/bykowskiolaf/subscriber-tinder)
 
-- 🌱 I’m currently learning **React, TypeScript**
+- 🌱 I’m currently learning **Java, Spring**
 
 <!-- - 👯 I’m looking to collaborate on [1](1)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **This or that** !-->
 
-- 📫 How to reach me **olafbykowski1@gmail.com**
+- 📫 How to reach me **contact@bykowskiolaf.dev**
 
 <!-- - 📄 Know about my experiences [1.com](1.com) !-->
 
